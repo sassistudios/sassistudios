@@ -3,7 +3,7 @@
 
 I am the Founder of Sassi Studios Ltd. a Web Development firm that seeks to build your dream website. We strive to create responsive UI's, and functional backend applications with focus on scalability and 99.9% uptime.
 
-**Specialties** React, Next.js, JavaScript/ES6, Typescript, Tailwind CSS, Bootstrap, Material UI, HTML5, CSS3, SCSS/SASS, Node.js, MongoDB, Express.
+**Specialties** React, Next.js, JavaScript/ES6, Typescript, Tailwind CSS, HTML5, CSS3, SCSS/SASS, Node.js, MongoDB, Express.
 <br/>
 
 ---
