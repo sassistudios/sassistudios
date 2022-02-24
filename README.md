@@ -10,6 +10,6 @@ I am the Founder of Sassi Studios Ltd. a Web Development firm that seeks to buil
 
 <div align="center">
 
-![SassiStudios GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sassistudios&show_icons=true&hide_border=true&theme=radical&count_private=true)
+![SassiStudios GitHub Statistics](https://github-readme-stats.vercel.app/api/top-langs?username=sassistudios&show_icons=true&hide_border=true&theme=radical&count_private=true)
 
 </div>
